@@ -4,48 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="991e8f6e-e0cf-4b7e-8c71-4db03f56dd04" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver10_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver10_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver11_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver11_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver12_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver12_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver13_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver13_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver14_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver14_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver15_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver15_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver16_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver16_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver17_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver17_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver18_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver18_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver1_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver1_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver2_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver2_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver3_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver3_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver4_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver4_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver5_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver5_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver6_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver6_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver7_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver7_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver8_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver8_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/HandDriver/handdriver9_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/HandDriver/HandDriverOld/handdriver9_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver10_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver10_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver11_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver11_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver12_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver12_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver13_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver13_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver14_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver14_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver15_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver15_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver16_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver16_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver17_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver17_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver18_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver18_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver19_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver19_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver1_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver1_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver20_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver20_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver2_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver2_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver3_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver3_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver4_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver4_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver5_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver5_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver6_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver6_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver7_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver7_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver8_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver8_R.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/ScrewDriver/screwdriver9_R.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/ScrewDriver/ScrewDriverOld/screwdriver9_R.csv" afterDir="false" />
-    </list>
+    <list default="true" id="991e8f6e-e0cf-4b7e-8c71-4db03f56dd04" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
