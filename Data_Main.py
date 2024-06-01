@@ -2,7 +2,7 @@ import pandas as pd
 import glob
 import os
 
-folder_path = 'data/ScrewDriver/ScrewDriverClean'
+folder_path = 'data/ScrewDriver'
 
 csv_files = glob.glob(os.path.join(folder_path, '*.csv'))
 
