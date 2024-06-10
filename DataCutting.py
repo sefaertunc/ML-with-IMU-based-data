@@ -9,6 +9,7 @@ csv_files = glob.glob(os.path.join(folder_path, '*.csv'))
 row_counts = []
 
 dataframes = []
+
 for file in csv_files:
     df = pd.read_csv(file)
     dataframes.append(df)
